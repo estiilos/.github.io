@@ -1,8 +1,8 @@
-# .github.io
-
-<html lang="pt-BR"><head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Rotina Full-Stack – 4h/dia</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap');
@@ -277,7 +277,7 @@
 
 <header>
   <div class="badge">🚀 Rotina de Estudos</div>
-  <h1>Full-Stack Developer<br>Nível Básico → Sólido</h1>
+  <h1>Full-Stack Developer<br/>Nível Básico → Sólido</h1>
   <p class="subtitle">4 horas por dia · Segunda a Sexta · 12 semanas estruturadas</p>
   <div class="stats">
     <div class="stat"><div class="stat-num">4h</div><div class="stat-label">por dia</div></div>
@@ -785,7 +785,7 @@
           <div class="block-desc">Event loop, módulos, Express.js, middlewares e estrutura de rotas REST.</div>
           <div class="links">
             <a class="link-chip" href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank">Node.js – Guia oficial</a>
-            <a class="link-chip" href="https://www.youtube.com/watch?v=Oe421EPjeBE" target="_blank">Traversy – Node &amp; Express Crash</a>
+            <a class="link-chip" href="https://www.youtube.com/watch?v=Oe421EPjeBE" target="_blank">Traversy – Node & Express Crash</a>
           </div>
         </div>
       </div>
@@ -1134,6 +1134,5 @@
     btn.classList.add('active');
   }
 </script>
-
-
-</body></html>
+</body>
+</html>
